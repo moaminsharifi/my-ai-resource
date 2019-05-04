@@ -17,17 +17,26 @@ Then, How To learn Classic Without Book?
 there is very course and paper about Machine Learning
 # Frees:
 #### Google Resources :
+google edu
 [https://ai.google/education/](https://ai.google/education/)
+google ML Crash course
 [https://developers.google.com/machine-learning/crash-course/ml-intro](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ####  Udacity Courses:
+Learin From Basics
 [ Machine Learning](https://eu.udacity.com/course/machine-learning--ud262)
-[https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+and Learn unsupervised learning
+[machine-learning-unsupervised-learning](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 
+#### Youtube Chanels:
+### [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+siraj is good and fun Instructor
 
 # Paids:
 ### Udemy:
 [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
 this course is good to learn introductions and libraries
 ## Books:
+My First Real Book is Learning From Data
 [Learning From Data](http://amlbook.com/)
+Written Very Good And Have Good Topic in ML Area, And Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't new Topic For Me**
