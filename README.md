@@ -19,12 +19,14 @@ there is very course and paper about Machine Learning
 #### Google Resources :
 google edu
 [https://ai.google/education/](https://ai.google/education/)
+
 google ML Crash course
 [https://developers.google.com/machine-learning/crash-course/ml-intro](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ####  Udacity Courses:
 Learin From Basics
 [ Machine Learning](https://eu.udacity.com/course/machine-learning--ud262)
+
 and Learn unsupervised learning
 [machine-learning-unsupervised-learning](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 
