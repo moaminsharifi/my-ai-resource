@@ -73,7 +73,8 @@ for **Youtube Chanels** see in Deep Learning part
 ### ML - Books
 
 My First Real Book is Learning From Data
-[Learning From Data](http://amlbook.com/)
+- [Learning From Data](http://amlbook.com/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - First Part](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 Written Very Good And Have Good Topic in ML Area, And Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't New Topic For Me**
 
 ## Deep Learning
@@ -86,18 +87,14 @@ My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT
 
 **FREE COURSES**
 
-[ Deep Learning by Google in Udacity](https://eu.udacity.com/course/deep-learning--ud730)
+- [ Deep Learning by Google in Udacity](https://eu.udacity.com/course/deep-learning--ud730)
 
-Then Let's Learn TensorFlow
-[Tensorflow free course](https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-
-#### AdrewNg
-[Adrew Ng](www.deeplearning.ai) is Awesome Teacher, Who Teach in Simple Way.
-
-To Start Just Go To www.deeplearning.ai and Enroll FREE
+- Then Let's Learn TensorFlow [Tensorflow free course](https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Dive into Deep Learning Course](https://courses.d2l.ai/berkeley-stat-157/index.html)
+- [Adrew Ng](www.deeplearning.ai) is Awesome Teacher, Who Teach in Simple Way. *To Start Just Go To www.deeplearning.ai and Enroll FREE*
 
 ##### DL - Youtube Chanels:
-** [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) ** in the past I said "siraj is good and fun Instructor" but after all time I think 50 50 on it but still in the list.
+
 
 - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) 
 - [Jeff Heaton](https://www.youtube.com/channel/UCR1-GEpyOPzT2AO4D_eifdw) is great person and teach every well in diifrent topic 
@@ -108,9 +105,8 @@ To Start Just Go To www.deeplearning.ai and Enroll FREE
 - [Aidinism - Persian](https://www.youtube.com/channel/UCng61h_6CH2FHu9VSsSP1Uw) Aidinism is one of my favorite channel in persian languages
 - **[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) is Well-Known person in teaching **
 
+*[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)* in the past I said "siraj is good and fun Instructor" but after all time I think 50 50 on it but still in the list.
 
 ### DL - Books
-
-Realy, I Don't Read Good Book In This Area (Yet). But :
-
-Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't New Topic For Me**
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - Second Part](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Dive into Deep Learning](https://d2l.ai/)
