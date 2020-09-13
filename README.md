@@ -25,27 +25,34 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
  - [Essence of linear algebra - Youtube PlayList](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ### Math - Books
 ---
+
 ## AI - Artificial Intelligence Basics :
 ### AI - Course
 
 How About Learn AI From Bests? in Udacity You Can **Learn Free** (FREE!) AI:
 Instructors:
 [# Intro to Artificial Intelligence](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api)
-### Peter Norvig
+
+### AI - Books
+- Artificial Intelligence: A Modern Approach by **Peter Norvig**
+
+
+#### Peter Norvig
 Writer of Classic AI Book  ([Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)) 
-### Sebastian Thrun
+#### Sebastian Thrun
 Co Founder Of Udacity (And Who Work a lot in AI Filed)
 Then, How To learn Classic Without Book?
 ([Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/))  is a Good One.
-### AI - Books
-- Artificial Intelligence: A Modern Approach by **Peter Norvig**
+
+
 ---
 ## Machine Learning
+### ML - Course
+
 there is very course and paper about Machine Learning
 ## Frees:
 #### Google Resources :
 [google edu](https://ai.google/education/)
-
 [google ML Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ####  Udacity Courses:
@@ -62,13 +69,19 @@ siraj is good and fun Instructor
 ### Udemy:
 [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
 this course is good to learn introductions and libraries
-## Books:
+
+### ML - Books
+
 My First Real Book is Learning From Data
 [Learning From Data](http://amlbook.com/)
 Written Very Good And Have Good Topic in ML Area, And Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't New Topic For Me**
 
 ## Deep Learning
 My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT Colony](https://scholar.google.com/scholar?q=ant%20colony%20optimization%20deep%20learning) And When Learn More In ML Learn Deep Learning. At First I Use Persian Resources Then Switch To English Resource After Testing A lot Resources There Is My Favorite Resource To Learn Deep Learning.
+
+### DL - Course
+### DL - Books
+
 ### Udacity:
 
 **FREE COURSES**
