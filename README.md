@@ -1,7 +1,9 @@
 # MY AI RESOURCES
-Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources. In here I list paid and free course and books.
+Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources. In here I list paid and free course and books.**help me with star the project**
+
+
 ## I Hope Enjoy Them
-**help me with star the project**
+
 --- 
 # table of content:
  - [Math ( mostly linear algebra )](#math)
