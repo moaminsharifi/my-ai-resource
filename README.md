@@ -1,21 +1,29 @@
 # MY AI RESOURCES
-Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources.
-This Is a Little of This Repository
-
+Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources. In here I list paid and free course and books.
+## I Hope Enjoy Them
+*help me with star project*
 
 # table of content:
  - [Math ( mostly linear algebra )](#0)
- - [AI - Artificial Intelligence](#AI-Artificial-Intelligence-Basics)
+    - [Video Courses](#01)
+    - [Books](#02)
+ - [AI - Artificial Intelligence](#ai---artificial-intelligence-basics-)
+    - [Video Courses](#11)
+    - [Books](#12)
  - [ML - Machine Learning](#machine-learning)
     - [Video Courses](#3)
     - [Books](#4)
-  - [DL - Deep Learning](#5)
+  - [DL - Deep Learning](#deep-learning)
       - [Video Courses](#3)
       - [Books](#4)
 ---
-## I Hope Enjoy Them
+---
+## Math 
+
 ---
 ## AI - Artificial Intelligence Basics :
+### AI - Course
+
 How About Learn AI From Bests? in Udacity You Can **Learn Free** (FREE!) AI:
 Instructors:
 [# Intro to Artificial Intelligence](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api)
@@ -25,7 +33,9 @@ Writer of Classic AI Book  ([Artificial Intelligence: A Modern Approach](http://
 Co Founder Of Udacity (And Who Work a lot in AI Filed)
 Then, How To learn Classic Without Book?
 ([Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/))  is a Good One.
-
+### AI - Books
+- Artificial Intelligence: A Modern Approach by **Peter Norvig**
+---
 ## Machine Learning
 there is very course and paper about Machine Learning
 ## Frees:
