@@ -1,9 +1,21 @@
 # MY AI RESOURCES
-Hi Guys, In This repository I Store My AI and Machine Learning + Deep Learning Resources.
+Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources.
 This Is a Little of This Repository
-## I Hope Enjoy Them
 
-## AI Basics :
+
+# table of content:
+ - [Math ( mostly linear algebra )](#0)
+ - [AI - Artificial Intelligence](#AI-Artificial-Intelligence-Basics)
+ - [ML - Machine Learning](#machine-learning)
+    - [Video Courses](#3)
+    - [Books](#4)
+  - [DL - Deep Learning](#5)
+      - [Video Courses](#3)
+      - [Books](#4)
+---
+## I Hope Enjoy Them
+---
+## AI - Artificial Intelligence Basics :
 How About Learn AI From Bests? in Udacity You Can **Learn Free** (FREE!) AI:
 Instructors:
 [# Intro to Artificial Intelligence](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271?utm_medium=referral&utm_campaign=api)
