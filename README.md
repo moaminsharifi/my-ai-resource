@@ -11,11 +11,11 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
     - [Video Courses](#ai---course)
     - [Books](#ai---books)
  - [ML - Machine Learning](#machine-learning)
-    - [Video Courses](#3)
-    - [Books](#4)
+    - [Video Courses](#ml---course)
+    - [Books](#ml---books)
   - [DL - Deep Learning](#deep-learning)
-      - [Video Courses](#3)
-      - [Books](#4)
+      - [Video Courses](#dl---course)
+      - [Books](#dl---books)
 
 ---
 ## Math 
