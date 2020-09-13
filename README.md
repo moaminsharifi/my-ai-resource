@@ -50,18 +50,18 @@ Then, How To learn Classic Without Book?
 ### ML - Course
 
 there is very course and paper about Machine Learning
-## Frees:
-#### Google Resources :
+#### Frees:
+##### Google Resources :
 [google edu](https://ai.google/education/)
 [google ML Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-####  Udacity Courses:
+#####  Udacity Courses:
 Learin From Basics
 [ Machine Learning](https://eu.udacity.com/course/machine-learning--ud262)
 and Learn unsupervised learning
 [machine-learning-unsupervised-learning](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 
-#### Youtube Chanels:
+##### Youtube Chanels:
 ### [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 siraj is good and fun Instructor
 
@@ -69,7 +69,7 @@ siraj is good and fun Instructor
 ### Udemy:
 [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
 this course is good to learn introductions and libraries
-
+for **Youtube Chanels** see in Deep Learning part
 ### ML - Books
 
 My First Real Book is Learning From Data
@@ -80,9 +80,9 @@ Written Very Good And Have Good Topic in ML Area, And Recently I Read Some [pack
 My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT Colony](https://scholar.google.com/scholar?q=ant%20colony%20optimization%20deep%20learning) And When Learn More In ML Learn Deep Learning. At First I Use Persian Resources Then Switch To English Resource After Testing A lot Resources There Is My Favorite Resource To Learn Deep Learning.
 
 ### DL - Course
-### DL - Books
 
-### Udacity:
+
+#### Udacity:
 
 **FREE COURSES**
 
@@ -91,16 +91,26 @@ My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT
 Then Let's Learn TensorFlow
 [Tensorflow free course](https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
-### AdrewNg
+#### AdrewNg
 [Adrew Ng](www.deeplearning.ai) is Awesome Teacher, Who Teach in Simple Way.
 
 To Start Just Go To www.deeplearning.ai and Enroll FREE
 
-#### Youtube Chanels:
-### [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-siraj is good and fun Instructor
+##### DL - Youtube Chanels:
+** [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) ** in the past I said "siraj is good and fun Instructor" but after all time I think 50 50 on it but still in the list.
 
-### Books
+- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) 
+- [Jeff Heaton](https://www.youtube.com/channel/UCR1-GEpyOPzT2AO4D_eifdw) is great person and teach every well in diifrent topic 
+- [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+- [Andreas Maier](https://www.youtube.com/channel/UCoiMqX5FHfk_KDow7xSe7pg)
+- [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ) one of great diifrent topic channel
+- [Derek Banas ](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [Aidinism - Persian](https://www.youtube.com/channel/UCng61h_6CH2FHu9VSsSP1Uw) Aidinism is one of my favorite channel in persian languages
+- **[sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) is Well-Known person in teaching **
+
+
+### DL - Books
+
 Realy, I Don't Read Good Book In This Area (Yet). But :
 
 Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't New Topic For Me**
