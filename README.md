@@ -16,6 +16,7 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
   - [DL - Deep Learning](#deep-learning)
       - [Video Courses](#dl---course)
       - [Books](#dl---books)
+      - [Youtube Chanels](#dl---youtube-chanels)
 
 ---
 ## Math 
