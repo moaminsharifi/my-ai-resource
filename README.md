@@ -1,12 +1,12 @@
 # MY AI RESOURCES
 Hello My friend , In This repository I Store My AI and Machine Learning + Deep Learning Resources. In here I list paid and free course and books.
 ## I Hope Enjoy Them
-*help me with star project*
-
+**help me with star the project**
+--- 
 # table of content:
- - [Math ( mostly linear algebra )](#0)
-    - [Video Courses](#01)
-    - [Books](#02)
+ - [Math ( mostly linear algebra )](#math)
+    - [Video Courses](#math---course)
+    - [Books](#math---books)
  - [AI - Artificial Intelligence](#ai---artificial-intelligence-basics-)
     - [Video Courses](#ai---course)
     - [Books](#ai---books)
@@ -20,7 +20,7 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
 ---
 ## Math 
 ### Math - Course
- - [khanacademy](https://khanacademy.org/) and also in persian (https://fa.khanacademy.org/)
+ - [khanacademy](https://khanacademy.org/) and [persian khanacademy](https://fa.khanacademy.org/)
  - [Learn Algebra - Youtube PlayList](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO)
  - [Essence of linear algebra - Youtube PlayList](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ### Math - Books
