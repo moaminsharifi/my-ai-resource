@@ -8,18 +8,22 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
     - [Video Courses](#01)
     - [Books](#02)
  - [AI - Artificial Intelligence](#ai---artificial-intelligence-basics-)
-    - [Video Courses](#11)
-    - [Books](#12)
+    - [Video Courses](#ai---course)
+    - [Books](#ai---books)
  - [ML - Machine Learning](#machine-learning)
     - [Video Courses](#3)
     - [Books](#4)
   - [DL - Deep Learning](#deep-learning)
       - [Video Courses](#3)
       - [Books](#4)
----
+
 ---
 ## Math 
-
+### Math - Course
+ - [khanacademy](https://khanacademy.org/) and also in persian (https://fa.khanacademy.org/)
+ - [Learn Algebra - Youtube PlayList](https://www.youtube.com/watch?v=B_WCI_A944E&list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO)
+ - [Essence of linear algebra - Youtube PlayList](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+### Math - Books
 ---
 ## AI - Artificial Intelligence Basics :
 ### AI - Course
