@@ -21,7 +21,8 @@ Hello My friend , In This repository I Store My AI and Machine Learning + Deep L
       - [Youtube Channels](#dl---youtube-channels)
   - **Extra**
     - Data Science
-    - Programing
+    - [Programing](#programing)
+      - [Python](#python-resource)
 ---
 ## Math 
 ### Math - Course
