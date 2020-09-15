@@ -113,3 +113,11 @@ My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT
 ### DL - Books
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - Second Part](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Dive into Deep Learning](https://d2l.ai/)
+
+---
+
+### Extra Part
+
+## Programing:
+### python resource:
+- [pythontips Book](https://book.pythontips.com/)
