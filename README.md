@@ -76,7 +76,8 @@ for [**Youtube Chanels**](#dl---youtube-channels) see in Deep Learning part
 My First Real Book is Learning From Data
 - [Learning From Data](http://amlbook.com/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - First Part](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-Written Very Good And Have Good Topic in ML Area, And Recently I Read Some [packt books](https://www.packtpub.com/) and that's very Good **But Have n't New Topic For Me**
+
+
 
 ---
 ## Deep Learning
