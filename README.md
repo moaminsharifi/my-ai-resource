@@ -57,20 +57,15 @@ Then, How To learn Classic Without Book?
 
 there is very course and paper about Machine Learning
 #### Frees:
-##### Google Resources :
-[google edu](https://ai.google/education/)
-[google ML Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
-
-#####  Udacity Courses:
-Learin From Basics
-[ Machine Learning](https://eu.udacity.com/course/machine-learning--ud262)
-and Learn unsupervised learning
-[machine-learning-unsupervised-learning](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+- [google edu](https://ai.google/education/)
+- [google ML Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Udacity -  Machine Learning](https://eu.udacity.com/course/machine-learning--ud262)
+- [Udacity -  Machine Learning Unsupervised Learning](https://eu.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+#### Paid:
+- [Udemy - Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+- [Udemy - Machine Learning and AI: Support Vector Machines in Python](https://www.udemy.com/course/support-vector-machines-in-python/) one of the Good course about SVM and Linear Models *for more information about SVM Read [Hands-On Machine Learning Book](#ml---books)*
 
 
-### Udemy:
-[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
-this course is good to learn introductions and libraries
 for [**Youtube Chanels**](#dl---youtube-channels) see in Deep Learning part
 ### ML - Books
 
