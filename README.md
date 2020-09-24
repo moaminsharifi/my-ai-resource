@@ -115,5 +115,14 @@ My Favorite Area in AI is Deep Learning, I Start With Algorithms paper Like [ANT
 ### Extra Part
 
 ## Programing:
+
+### Basic:
+ - [Udacity -  Intro to Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+### git:
+- [Udacity -  Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ProGit Book](https://git-scm.com/book/en/v2)
+
 ### python resource:
 - [pythontips Book](https://book.pythontips.com/)
+- [Udacity -  Software Testing in Python](https://www.udacity.com/course/software-testing--cs258)
+- [Udacity -  Software Debugging in Python](https://www.udacity.com/course/software-debugging--cs259)
